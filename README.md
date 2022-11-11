@@ -46,7 +46,4 @@ Total 0 students have been notified.
 > exit
 Bye!
 
-## Dependencies
-- JUnit 5
-- AssertJ
-- Manifold
+
